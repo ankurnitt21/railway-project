@@ -1,0 +1,11 @@
+Train No.	Name	                   Departure Stn  (Time)	Arrival Stn  (Time)	Trip Time
+02213		Varanasi Junction	   Nagpur 	  (16:33)	New Delhi    (06:30)	13h 57m
+12441		Bilaspur Junction          Nagpur 	  (20:45)	New Delhi    (10:45)	14h 0m
+12621		Tamil Nadu Express	   Nagpur 	  (14:20)	New Delhi    (07:00)	16h 40m
+12723		Andhra Pradesh Exp	   Nagpur 	  (15:55)	New Delhi    (09:05)	17h 10m
+12625		Kerala Express	           Nagpur 	  (20:25)	New Delhi    (13:40)	17h 15m
+12615		Grand Trunk Express	   Nagpur 	  (12:25)	New Delhi    (06:20)	17h 55m
+16317		Himsagar Express	   Nagpur         (02:55)	New Delhi    (21:40)	18h 45m
+16687		Navyug Express	           Nagpur         (02:55)	New Delhi    (21:40)	18h 45m
+22403		Puducherry New Delhi   	   Nagpur         (07:45)	New Delhi    (03:55)	20h 10m
+16031		Andaman Express	           Nagpur         (02:45)	New Delhi    (23:15)    20h 30m

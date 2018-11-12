@@ -1,0 +1,11 @@
+Train No.	Name				Departure Stn (Time)	  Arrival Stn        (Time)	   Trip Time
+12910		Bandra Terminus Garib Rath	H Nizamuddin (15:40)	  Bandra Terminus    (08:10)	   16h 30m
+12954		Ag Kranti Rajdhani		H Nizamuddin (16:55)	  Mumbai Central     (10:00)	   17h 5m
+12248		H Nizamuddin Bandra 		H Nizamuddin (15:40)	  Bandra Terminus    (09:20)	   17h 40m
+12432		Trivndrm Rajdhani		H Nizamuddin (11:00)	  Panvel             (05:05)	   18h 5m
+12908		Mhrst Sampark K E		H Nizamuddin (21:35)	  Bandra Terminus    (16:35)	   19h 0m
+22110		H Nizamuddin Lokmanyatilak 	H Nizamuddin (15:50)	  Lokmanyatilak      (11:50)	   20h 0m
+02110		H Nizamuddin Lokmanyatilak 	H Nizamuddin (15:50)	  Lokmanyatilak      (11:50)	   20h 0m
+06319		H Nizamuddin Kcvl Superfast 	H Nizamuddin (21:35)	  Panvel             (17:57)	   20h 22m
+04092		H Nizamuddin Mumbai Central     H Nizamuddin (23:30)	  Mumbai Central     (22:10)	   22h 40m
+12215		Delhi S Rohilla Bandra   	Delhi Rohil  (09:20)	  Bandra Terminus    (08:10)	   22h 50m

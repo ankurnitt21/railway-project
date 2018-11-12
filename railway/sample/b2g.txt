@@ -1,0 +1,9 @@
+Train No.	Name	Departure Stn (Time)	Arrival Stn (Time)	Trip Time
+12201	Kcvl Garib Rath	Lokmanyatilak Terminus (16:55)	Madgaon (02:15)	9h 20m
+01001	Lokmanyatilak Terminus Karmali Ac Special	Lokmanyatilak Terminus (00:55)	Karmali (11:00)	10h 5m
+12619	Matsyagandha Express	Lokmanyatilak Terminus (15:20)	Madgaon (01:25)	10h 5m
+12051	Jan Shatabdi Express	Dadar (05:25)	Madgaon (16:00)	10h 35m
+12133	Mangalore Express	Mumbai Cst (22:00)	Madgaon (08:50)	10h 50m
+02113	Lokmanyatilak Terminus Madgaon Ac Special	Lokmanyatilak Terminus (00:55)	Madgaon (12:00)	11h 5m
+01007	Lokmanyatilak Terminus Madgaon Ac Special	Lokmanyatilak Terminus (00:55)	Madgaon (12:00)	11h 5m
+01067	Lokmanyatilak Terminus Tirunelveli Special	Lokmanyatilak Terminus (14:20)	Madgaon (01:45)	11h 25m

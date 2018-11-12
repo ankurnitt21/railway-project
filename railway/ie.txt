@@ -1,0 +1,14 @@
+Train No.     Name			Dep. Stn    (Time)	Arrival Stn      (Time)	        Trip Time      
+12664	      Howrah Express		Trichy	    (16:00)	Chennai Egmore   (22:10)        6h 10m		
+16178	      Rockfort Express		Trichy	    (22:20)	Chennai Egmore   (05:15)        6h 55m			
+26806	      Trichy Snsi Exp	        Trichy	    (16:00)	Chennai Egmore   (23:20)        7h 20m		
+16854	      Chennai Express		Trichy 	    (09:35)	Chennai Egmore   (17:50)        8h 15m		
+12606	      Pallavan Express	        Trichy      (06:30)	Chennai Egmore   (12:10)	5h 40m		
+12636	      Vaigai Express	        Trichy      (09:00)	Chennai Egmore   (14:40)	5h 40m		
+12651	      Sampark Kranti	        Trichy      (03:00)	Chennai Egmore   (08:50)	5h 50m		
+12641	      Tirukkural Express	Trichy      (03:00)	Chennai Egmore   (08:50)	5h 50m		
+26310	      Chennai Express	        Trichy      (03:00)	Chennai Egmore   (08:50)	5h 50m		
+26748	      Chennai Express	        Trichy      (00:05)	Chennai Egmore   (06:05)	6h 0m			
+12632	      Nellai Express	        Trichy      (01:05)	Chennai Egmore   (07:10)	6h 5m		
+16182	      Silambu Express	        Trichy      (23:55)	Chennai Egmore   (06:05)	6h 10m		
+12666	      Cape Howrah Express	Trichy      (16:00)	Chennai Egmore   (22:10)	6h 10m		

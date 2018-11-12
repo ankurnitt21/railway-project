@@ -1,0 +1,6 @@
+Train No.    Name	          Dep. Stn          (Time)	Arrival Stn            (Time)	  Trip Time     
+26572	     Bangalore Express	  Trichy            (14:30)	Bangalore Cy Junction  (23:15)	  8h 45m        
+26522	     Yesvantpur Express	  Tiruchchirapali   (12:30)	Yesvantpur Junction    (22:00)	  9h 30m        
+27316	     Vellankanni Express  Tiruchchirapali   (23:55)	Yesvantpur Junction    (09:05)	  9h 10m	
+16231	     Mysore Express	  Tiruchchirapali   (20:35)	Kengeri                (06:19)	  9h 44m	
+17316	     Velankanni Express	  Tiruchchirapali   (03:25)	Yesvantpur Junction    (13:30)	  10h 5m	
